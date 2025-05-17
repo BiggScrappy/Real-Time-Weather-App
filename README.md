@@ -65,4 +65,4 @@ This project is licensed under the MIT License.
 
 
 ## ☀️ Visual of Project 
-<img width="1792" alt="Screenshot 2025-05-17 at 8 32 16 AM" src="https://github.com/user-attachments/assets/5185850e-6e5e-41ad-b912-cf0be83ac0de" />
+<img width="1792" alt="Screenshot 2025-05-17 at 8 35 43 AM" src="https://github.com/user-attachments/assets/cf079155-ffbf-443a-b898-1a65aa01eb0d" />
