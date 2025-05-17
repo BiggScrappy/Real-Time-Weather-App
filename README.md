@@ -1,12 +1,64 @@
-# React + Vite
+🌤️ Weather App
+A sleek and responsive weather application built with React, powered by the OpenWeatherMap API. Users can search for any city and view real-time weather data including temperature, humidity, wind speed, and weather conditions.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- Optional: replace or remove if you don't have an image -->
 
-Currently, two official plugins are available:
+🚀 Features
+🔍 City-based weather search
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌡️ Real-time temperature (°F)
 
-## Expanding the ESLint configuration
+💨 Wind speed display
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💧 Humidity indicator
+
+🌤️ Dynamic weather icons based on conditions
+
+📱 Responsive design
+
+🛠️ Tech Stack
+React (Vite)
+
+CSS Modules
+
+OpenWeatherMap API
+
+📦 Installation
+git clone https://github.com/your-username/weather-app.git
+cd weather-app
+npm install
+npm run dev
+
+
+🔐 Environment Variables
+To run this app, you'll need to create a .env file in the root directory and add the following:
+VITE_APP_ID=your_openweathermap_api_key
+You can get your free API key here: OpenWeatherMap
+
+📸 Preview
+<!-- Optional: Replace with a GIF or image of your app in action -->
+
+📁 Project Structure
+weather-app/
+├── public/
+├── src/
+│   ├── assets/        # Weather icons
+│   ├── components/
+│   │   └── Weather.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── Weather.css
+├── .env
+├── package.json
+└── vite.config.js
+
+🙌 Acknowledgements
+OpenWeatherMap
+
+React community and Vite.js
+
+📄 License
+This project is licensed under the MIT License.
+
+
+
